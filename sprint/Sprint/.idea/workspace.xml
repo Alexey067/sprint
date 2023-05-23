@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a816d8cb-9800-42e1-87f2-8f4159bba057" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Sprint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sprint.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mountain/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mountain/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mountain/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mountain/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
